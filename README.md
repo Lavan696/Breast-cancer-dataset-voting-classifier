@@ -95,4 +95,4 @@ The primary goal of this project is to **accurately classify tumors as benign or
 **Lavan kumar Konda**  
 Student at NIT Andhra Pradesh  
 Passionate about Machine Learning, Data Science, and AI  
-LinkedIn: [https://linkedin.com/in/lavan-kumar](https://linkedin.com/in/lavan-kumar-konda)
+LinkedIn: [https://linkedin.com/in/lavan-kumar-konda]
